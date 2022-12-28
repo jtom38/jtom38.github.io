@@ -1,0 +1,10 @@
+---
+title: "Welcome"
+description: "You have found my my person site"
+
+# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
+theme_version: '2.8.2'
+cascade:
+  #featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+---
+Here you can learn about the things I am working on along with any learning I am doing.
