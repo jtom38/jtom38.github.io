@@ -2,6 +2,7 @@
 title: "2023 Goals"
 date: 2022-12-27T18:11:30-08:00
 draft: false
+tags: [goals]
 ---
 
 As we roll into 2023 I have some new goals that I am working on.
@@ -36,4 +37,4 @@ Thanks for reading!
 
 - [goth](https://github.com/markbates/goth)
 - [NATS](https://nats.io/)
-- [WebAssembly]()
+- [WebAssembly](https://golangbot.com/webassembly-using-go/)
