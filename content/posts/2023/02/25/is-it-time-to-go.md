@@ -2,7 +2,7 @@
 title: "Is it time to Go?"
 date: 2023-02-25T21:13:30-08:00
 draft: false
-tags: [golang, dvb]
+tags: [golang, dotnet]
 ---
 
 I will have been working with go for a year next month. This last year I have learned so much about the language and come to love how simple and flexible it is. I see a great future for it within the web ecosystem. It's very easy to build up a new web service in go that will work on any system. My problem with it is more around the lack of companies using it.
