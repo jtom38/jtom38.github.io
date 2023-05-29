@@ -1,6 +1,6 @@
 ---
 title: "Hosting Static Sites"
-date: 2023-02-25T21:13:30-08:00
+date: 2023-05-28T21:13:30-08:00
 draft: false
 tags: [azure, hugo, hosting]
 ---
