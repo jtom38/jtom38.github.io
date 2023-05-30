@@ -1,6 +1,6 @@
 ---
 title: "Hosting Static Sites"
-date: 2023-05-28T21:13:30-08:00
+date: 2023-05-28T21:00:00-08:00
 draft: false
 tags: [azure, hugo, hosting]
 ---
@@ -11,15 +11,15 @@ I have always stayed away from posting anything on the internet.  So when it cam
 
 I am always looking for the next free thing when it comes to my projects.  This has resulted in me hosting things internally only or not at all.  I got my domain so I can start to detach more from the big sites and do things on my own a bit.  But now, I had to figure out how to build a site.
 
-Building the site was not as hard,  [hugo]() did make this site much easier to build.  I am not looking for anything complex and with a bunch of javascript overhead so a static website generator was perfect!  At first, I was able to get something online at least locally and it looked good.  So it was time to deploy it.
+Building the site was not as hard,  [hugo](https://gohugo.io/) did make this site much easier to build.  I am not looking for anything complex and with a bunch of javascript overhead so a static website generator was perfect!  At first, I was able to get something online at least locally and it looked good.  So it was time to deploy it.
 
 ## Github
 
-I start with attempting to deploy on [github.io]().  This comes packed in with the repository and all I needed to do was make a couple of changes to deploy the site.  Got that setup and then the site was available at jtom38.github.io.  Well, that's nice and all but I wanted to get it to route to my domain.  This is when things started to fall apart.
+I start with attempting to deploy on [github.io](https://pages.github.com/?(null)).  This comes packed in with the repository and all I needed to do was make a couple of changes to deploy the site.  Got that setup and then the site was available at jtom38.github.io.  Well, that's nice and all but I wanted to get it to route to my domain.  This is when things started to fall apart.
 
 Based on the documentation this process should be nothing more than adding a record into my DNS and then setting up the CNAME record.  Well, it worked somewhat.  One page would work but none of the subpages would load correctly.  I would then put the project down for a while as time was limited.
 
-I started to work on a custom hugo theme [cookbook](https://github.com/jtom38/hugo-cookbook) for my new family cookbook.  I did learn more about the inner workings of Hugo and that was great!  I did get that site running just on [github.io]() but never made it back to my site (this one).  
+I started to work on a custom hugo theme [cookbook](https://github.com/jtom38/hugo-cookbook) for my new family cookbook.  I did learn more about the inner workings of Hugo and that was great!  I did get that site running just on [github.io](https://pages.github.com/?(null)) but never made it back to my site (this one).  
 
 ## Digital Ocean
 
