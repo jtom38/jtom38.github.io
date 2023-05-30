@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-description: "You have found my my person site"
+description: "You have found my personal site"
 
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'

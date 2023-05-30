@@ -25,3 +25,9 @@ draft: false
 [repo](https://github.com/jtom38/dvb)
 
 This tool was made to backup my docker data given I didn't want to chain a bunch of bash commands together.  
+
+### cloudflare-ddns
+
+[repo](https://github.com/jtom38/cloudflare-ddns)
+
+This is a small tool made to run out of one of your servers and will watch for any external IP address changes.  When your records start to drift, the tool will update the DNS records hosted in Cloudflare to match the IP address pulled.
